@@ -22,12 +22,12 @@ public class DataType {
 		System.out.println(e);
 //Double		
 		double f = 12321.1313321;
-		System.out.println(f);
+		System.out.println(f); 
 //Char		
-		char g = 'g';
+		char g = 'A';
 		System.out.println(g);
 //ASCII		
-		char variable_1 = 'h';
+		char variable_1 = 'd';
 		int ascii = (int) variable_1;
 		System.out.println(ascii);
 //Boolean		
