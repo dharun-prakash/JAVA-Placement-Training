@@ -7,7 +7,7 @@ public class Task_6 {
 		Scanner obj = new Scanner(System.in);
 		System.out.println("Enter 1st mark :");
 		int mark_1 = obj.nextInt();
-		
+//		System.out.println((mark_1 >=100)?"Should not be greater than 100":(mark_1 >= 0)?"Should not be less than 0");
 		System.out.println("Enter 2nd mark :");
 		int mark_2 = obj.nextInt();
 		System.out.println("Enter 3rd mark :");
