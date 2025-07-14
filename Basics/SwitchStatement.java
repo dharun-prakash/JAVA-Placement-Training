@@ -15,7 +15,7 @@ public class SwitchStatement {
 			System.out.println("30");
 			break;
 		default:
-			System.out.println("Not Valid");
+			System.out.println("Not Valid"); 
 		}
 	}
 
