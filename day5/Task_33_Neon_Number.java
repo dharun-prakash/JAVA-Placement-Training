@@ -2,7 +2,7 @@ package day5;
 import java.util.Scanner;
 
 //Find Neon in an array
-public class Task_33 {
+public class Task_33_Neon_Number {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter size");

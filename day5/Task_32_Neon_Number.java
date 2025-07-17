@@ -2,7 +2,7 @@ package day5;
 
 import java.util.Scanner;
 
-public class Task_32 {
+public class Task_32_Neon_Number {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
