@@ -30,12 +30,23 @@ public class Task_54_Count_The_Bits {
 		}
 		return count;
 	}
+	
+	static int method3(int val){
+		int count = 0;
+		while(val>0) {
+			if(val%2==1)
+				count++;
+			val/=2;
+		}
+		return count;
+	}
 		
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int val = sc.nextInt();
 //		System.out.println(method1(val));
-		System.out.println(method2(val));
+//		System.out.println(method2(val));
+		System.out.println(method3(val));
 
 
 }
