@@ -1,6 +1,6 @@
 package day9;
 
-public class Taask_64_FibonacciSeries {
+public class Task_64_FibonacciSeries {
 	public static void main(String[] args) {
 		int n1 = 0;
 		int n2 = 1;
