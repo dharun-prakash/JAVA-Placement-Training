@@ -19,7 +19,6 @@ public class MultipleInheritance {
 		child ch = new child();
 		ch.car();
 		
-		
 	}
 
 }
